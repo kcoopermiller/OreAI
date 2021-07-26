@@ -1,0 +1,3 @@
+[submodule "OreBot"]
+	path = OreBot
+	url = https://github.com/kcoopermiller/OreBot.git
